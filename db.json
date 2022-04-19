@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Practice coding",
+      "day": "Jun 12th",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "dfvf",
+      "day": "dsfsef",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
